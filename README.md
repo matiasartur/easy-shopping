@@ -5,8 +5,8 @@
 
 <h2>Tecnologias utilizadas</h2>
 <br>
-  -HTML
-  -CSS
+  <h5>-HTML</h5>
+  <H5>-CSS</H5>
 <img src="https://github.com/matiasartur/easy-shopping/blob/main/assets/site%20responsivo%20pc.png?raw=true" />
 
 <img src="https://github.com/matiasartur/easy-shopping/blob/main/assets/site%20responsive%20mobile.png?raw=true" />
